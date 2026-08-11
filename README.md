@@ -1,4 +1,4 @@
-##IPL Team & Player Performance Analysis
+# IPL Team & Player Performance Analysis
 
 End-to-end analysis of IPL match and ball-by-ball data — Python for
 cleaning/analysis, SQL for querying, and a 4-page Power BI dashboard.
